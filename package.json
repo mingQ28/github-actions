@@ -4,7 +4,7 @@
   "description": "Github Actions 연습을 위한 node.js 예제 프로그램",
   "main": "app.js",
   "scripts": {
-    "test": "jest",
+    "test": "mocha app.test.js",
     "start": "node app.js"
   },
   "repository": {
