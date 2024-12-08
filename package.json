@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/stelladream/github-actions-nodejs#readme",
   "devDependencies": {
-    "chai": "^4.3.10",
+    "chai": "^4.5.0",
     "chai-http": "^4.4.0",
     "mocha": "^10.2.0"
   }
