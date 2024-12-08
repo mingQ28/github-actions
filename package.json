@@ -28,6 +28,7 @@
     "mocha": "^10.2.0"
   },
   "dependencies": {
+    "ci": "^2.3.0",
     "react-scripts": "^5.0.1"
   }
 }
